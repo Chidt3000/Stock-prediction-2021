@@ -12,11 +12,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Stock-p
 ```bash
 pip install -r requirements.txt
 ```
-## Structure:
+## Structure
 ```python
-├───app
+├───app.py
+├───main.py
 ├───dataset
-├───main
 ├───static
 │   ├───images
 │   └───stocks
